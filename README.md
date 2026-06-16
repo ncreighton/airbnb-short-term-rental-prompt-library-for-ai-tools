@@ -1,2 +1,25 @@
-# airbnb-short-term-rental-prompt-library-for-ai-tools
-200+ tested prompts for ChatGPT, Claude, and Gemini optimized for Airbnb &amp; Short-Term Rental tasks. Save hours researching the right prompts.
+# Airbnb & Short-Term Rental Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x200j9z9e2M4pqavOd0q2U)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x200j9z9e2M4pqavOd0q2U)
+
